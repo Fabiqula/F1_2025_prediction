@@ -5,3 +5,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+plotly
+notebook
